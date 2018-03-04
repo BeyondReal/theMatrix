@@ -1,1 +1,3 @@
 Another Test file for this codetrain branch
+
+Changes as per issue #3
